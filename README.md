@@ -1,2 +1,2 @@
 # Progetto_Unidorm
-Progetto unidorm Trapani Mauro: 0124002817 Antonio Fiorito: 0124002852 Giovanni De Rosa: 0124002771
+Per far funzionare il progetto bisogna scaricare un IDE(PyCharm)e aprire la cartella del progetto. Per eseguirlo bisogna impostare sqlite3 come variabile d'ambiente in modo da poter utilizzare il database associato nell'ambiente di programmazione. Inoltre fare la configurazione per il run dello script pyhton impostando Python come linguaggio interprete sempre nell'IDE utilizzato. Effettuati questi passaggi lo script dell'app è eseguibile e tramite un browser e tramite il relativo URL è possibile accedere alle varie risorse
